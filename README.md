@@ -1,6 +1,6 @@
-# Calendar - Application
+# Calendar - Event
 
-Calendar Application is a spring boot application to create calendar events
+Calendar Event is a spring boot application to create calendar events
 
 ## Technology stack
 
