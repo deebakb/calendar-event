@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.calendar.events.boot.rest.controller.test.CalendarControllerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.659 sec - in com.calendar.events.boot.rest.controller.test.CalendarControllerTest

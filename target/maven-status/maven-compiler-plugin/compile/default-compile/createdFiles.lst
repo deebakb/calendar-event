@@ -1,0 +1,12 @@
+com\calendar\events\boot\rest\controller\CalendarController$Reminder.class
+com\calendar\events\boot\rest\data\DataLoader.class
+com\calendar\events\boot\rest\exception\ControllerExceptionHandler.class
+com\calendar\events\boot\rest\model\CalendarEvent.class
+com\calendar\events\boot\rest\model\CalendarUser.class
+com\calendar\events\config\JacksonConfig.class
+com\calendar\events\boot\rest\repository\CalendarRepository.class
+com\calendar\events\boot\rest\exception\CalendarEventNotFoundException.class
+com\calendar\events\Application.class
+com\calendar\events\boot\rest\controller\CalendarController.class
+com\calendar\events\boot\rest\exception\InvalidCalendarEventRequestException.class
+com\calendar\events\boot\rest\data\DataBuilder.class
